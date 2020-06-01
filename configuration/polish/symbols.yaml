@@ -1,0 +1,28 @@
+meanings: '{{znaczenia}}'
+inflection: '{{odmiana}}'
+synonyms: '{{synonimy}}'
+antonyms: '{{antonimy}}'
+hypernyms: '{{hiperonimy}}'
+hyponyms: '{{hiponimy}}'
+holonyms: '{{holonimy}}'
+meronyms: '{{meronimy}}'
+examples: '{{przykłady}}'
+translations: '{{tłumaczenia}}'
+
+musculine: męsk
+feminine: żeńsk
+neutral: nijak
+
+noun: rzeczownik
+verb: czasownik
+adjective: przymiotnik
+adverb: przysłówek
+
+english: angielski
+spanish: hiszpański
+
+polish_section: język polski
+english_section: język angielski
+
+start_section: '{{'
+start_language_section: '=='

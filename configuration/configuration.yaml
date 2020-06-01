@@ -1,0 +1,9 @@
+#wiktionary_path: data/plwiktionary-20191001-pages-articles-multistream.xml
+wiktionary_path: data/enwiktionary-20190701-pages-articles-multistream.xml
+output_path: output/english_wiktionary.json
+settings_folder: configuration/english
+#settings_folder: configuration/english
+symbols_file: symbols.yaml
+patterns_file: patterns.yaml
+parser: en
+language: en
